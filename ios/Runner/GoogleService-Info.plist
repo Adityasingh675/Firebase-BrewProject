@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>442790162086-15m1k6o31opmls8esk38dd5jn5fb43f9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.442790162086-15m1k6o31opmls8esk38dd5jn5fb43f9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFulvCbAYIHRdY6bsvIN5nzBgZVuvJ21Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>442790162086</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aditya.brewiCrew</string>
+	<key>PROJECT_ID</key>
+	<string>ninja-brew-crew-c657b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ninja-brew-crew-c657b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:442790162086:ios:5a815c0cbd5e7743af0e67</string>
+	<key>DATABASE_URL</key>
+	<string>https://ninja-brew-crew-c657b.firebaseio.com</string>
+</dict>
+</plist>
